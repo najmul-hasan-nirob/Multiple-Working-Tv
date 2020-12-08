@@ -4,7 +4,22 @@
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Ibox)
-http://103.135.208.14:8082/17/index.m3u8?token=c2019f65906e73bdf043f7cd84a13b9adaab750c-6a10efb851f8f4c943d2368a2640d549-1607370904-1607360104
+http://103.135.208.14:8082/17/index.m3u8?token=31d244733f20985896b843bfb62f3d205e8c6393-e975cc3a7e42c86533ab3881a9f473d5-1607426938-1607416138&remote=103.63.157.218
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (ThunderBD)
+http://tv.dflix.live:8082/17/index.m3u8?token=ac2a483a657910e1af68d09fea8832f1463aaae6-c3669186c0db6010ecfc8ea7e518ffef-1607426946-1607416146&remote=45.123.40.154
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (DFlix)
+http://tv.dflix.live:8082/17/mono.m3u8?token=110863d4f3b81d004fa7611704caa0a2d5d55b83-f4d04ccd9b2f82c6b836925332b53461-1607426961-1607416161&remote=10.160.2.102
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (Hitectv)
+https://any.hitectv.live:4443/somoy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (anytv)
+https://ccntv.anytv.live/somoy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_Amarnet IPTV.png" group-title="BDIX",SOMOY TV (KhulnaTv)
+https://khulnalive.anytv.live/somoy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BDIX",ATN BANGLA (Ebox)
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
